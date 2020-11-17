@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **kiprox/kiprox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Contact me
+
+- [Telegram](https://t.me/kiprox)
+
+![kiprox github stats](https://github-readme-stats-xi-nine.vercel.app/api?username=kiprox&show_icons=true&theme=default&count_private=true)
