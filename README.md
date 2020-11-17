@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**kiprox/kiprox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+is a ✨ _special_ ✨ repository
 
 Here are some ideas to get you started:
 
