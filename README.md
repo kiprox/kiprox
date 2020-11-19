@@ -1,7 +1,6 @@
-### Hi there 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiprox" alt="kiprox" /></a> </p>
 
-
-is a ✨ _special_ ✨ repository
+<p align="left"> <a href="https://twitter.com/DonCandro" target="blank"><img src="https://img.shields.io/twitter/follow/shantk18?logo=twitter&style=for-the-badge" alt="DonCandro" /></a> </p>
 
 Here are some ideas to get you started:
 
