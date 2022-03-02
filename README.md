@@ -1,14 +1,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on friendship
+- 🔭 I’m currently working on small business
 - 🌱 I’m currently learning [Python](https://www.python.org/)
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with [External Player](https://github.com/kiprox/cf-gdplay)
 - 💬 Ask me about anythink
 - 📫 How to reach me: [Keybase.io](https://keybase.io/candro)
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
